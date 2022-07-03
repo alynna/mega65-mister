@@ -1,0 +1,3 @@
+[submodule "rtl/mega65"]
+	path = rtl/mega65
+	url = http://github.com/alynna/mega65-core.git
